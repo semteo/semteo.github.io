@@ -1,1 +1,0 @@
-# semteo.github.io
