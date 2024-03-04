@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>test_flutter_project.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A8F46837323ADBC027F39132432A3A9516453A9C</string>
+				<key>dateExpires</key>
+				<string>2/27/25</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A8F46837323ADBC027F39132432A3A9516453A9C</string>
+						<key>dateExpires</key>
+						<string>2/27/25</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>566WRHH3F5</string>
+						<key>name</key>
+						<string>Junseok Lee</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A8F46837323ADBC027F39132432A3A9516453A9C</string>
+						<key>dateExpires</key>
+						<string>2/27/25</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>566WRHH3F5</string>
+						<key>name</key>
+						<string>Junseok Lee</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>566WRHH3F5.com.example.testFlutterProjectSemteo</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>566WRHH3F5</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>076840eb-fb70-4929-92c1-c28dbf722dd5</string>
+				<key>dateExpires</key>
+				<string>2/27/25</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.example.testFlutterProjectSemteo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>566WRHH3F5</string>
+				<key>name</key>
+				<string>Junseok Lee</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
